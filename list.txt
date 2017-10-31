@@ -7147,4 +7147,5 @@
 127.0.0.1	pic5678.com
 127.0.0.1	newrevive.detik.com
 127.0.0.1	tpc.googlesyndication.com
-127.0.0.1	adclick.g.doubleclick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
